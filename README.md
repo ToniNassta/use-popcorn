@@ -2,7 +2,7 @@
 
 A small React app for searching movies and keeping track of the ones you've watched.
 
-> This project was built while following **"The Ultimate React Course"** by Jonas Schmedtmann on Udemy. The idea and design come from the course; I built it to practice React.
+> This project was built while following **"The Ultimate React Course"** by Jonas Schmedtmann on Udemy. It is not an original idea and was not built from scratch: I started from the [starter files provided in the course](https://github.com/jonasschmedtmann/ultimate-react-course/tree/5c38ad0e9f5067d4a486e8ee5d7bed36268fbbb8/07-usepopcorn/starter) and implemented the app logic step by step to practice React.
 
 ## Features
 
@@ -28,3 +28,7 @@ React, OMDb API, CSS
 
 ![Search and movie list](screenshots/use-popcorn-searchMovie.png)
 ![Watched movies](screenshots/use-popcorn-watched-movies.png)
+
+## Demo
+
+[![Watch the demo](screenshots/use-popcorn-watched-movies.png)](https://www.loom.com/share/68580621e04242c3901529b7bf4cd64f)
