@@ -23,3 +23,8 @@ A small React app for searching movies and keeping track of the ones you've watc
 ## Tech
 
 React, OMDb API, CSS
+
+## Screenshots
+
+![Search and movie list](screenshots/use-popcorn-searchMovie.png)
+![Watched movies](screenshots/use-popcorn-watched-movies.png)
